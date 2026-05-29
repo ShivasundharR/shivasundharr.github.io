@@ -6,11 +6,14 @@ author_profile: true
 feature_row:
   - image_path: /assets/images/health-ml-teaser.jpg
     alt: "Machine Learning Predictor"
-    title: "Health Outcome Predictor"
-    excerpt: "A machine learning project using Scikit-Learn to predict health outcomes with over 88% accuracy."
+    title: "Heart DiseasePredictor"
+    excerpt: "A machine learning project using Scikit-Learn to predict if a patient has heart disease with over 88% accuracy."
     url: "/projects/health-ml/"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
+    excerpt: >
+      A brief description of what this project does and the tools I used to build it.
+      <br><br>
+      <a href="https://github.com/ShivasundharR/Heart-disease-Predictor" class="btn btn--primary">View Code</a>
+      <a href="heart-disease-predictor-chi.vercel.app" class="btn btn--success">Live App</a>
   - image_path: /assets/images/bid-tool-teaser.jpg
     alt: "Bid Estimation Tool"
     title: "IT Bid Estimation Tool"
